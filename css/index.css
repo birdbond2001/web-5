@@ -58,6 +58,11 @@ height: 505px
     float: left;
     color: white;
 }
+.title-seaction-link:hover{
+    color: white;
+    text-decoration:underline;
+    
+}
 
 i{
     padding: 10px;
