@@ -17,7 +17,7 @@
 #background-picture
 {
 width: 100%;
-height: 520px
+height: 550px
 }
 
 .page-1-title-seaction
@@ -26,13 +26,11 @@ height: 520px
     font-size: 13px;
    
     border: 2px solid gray;
-    height: 30px;
     background-color: black;
     position: relative;
     bottom: 3px;
-    height: 55px;
-    width: 100%;
-    height:30px;
+    width: 1362PX;
+    height:36px;
    
 
    
@@ -71,9 +69,10 @@ i{
 
 hr{
     width: 0px;
-    height:30px;
+    height:33px;
     position: relative;
     bottom: 7px;
+    margin-left: 490PX;
    
     float: left;
 
