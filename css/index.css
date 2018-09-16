@@ -58,7 +58,7 @@ li a:hover {
 hr{
     width: 0px;
     height:70px;
-    margin-left: 390px;
+    margin-left: 360px;
     position: relative;
     bottom: 10px;
     
@@ -67,7 +67,7 @@ hr{
 #page-picture-link
 {
     width: 35px;
-    padding-left: 13px;
+    padding-left: 15px;
     position: relative;
     bottom: 9px;
    
