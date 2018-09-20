@@ -1,4 +1,4 @@
-.page-3-body
+.page-2-body
 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
@@ -11,131 +11,89 @@
     margin-left: auto;
     margin-right: auto;
 }
-.page-3
+.page-2
 {
     
     background-image: url("../src/coffee-2.jpg");
    width: 100%;
-   height:1300px;
+   height:100%;
    background-repeat: no-repeat;
    background-size: cover;
+   
 
 }
-.page-3-sitting
+.page-2-sitting
 {
-    height: 1200px;
+    height: 1450px;
 }
-.page-2-food-page
+.page-2-about-page
 {
     width: 70%;
-    height: 1200px;
+    height: 1450px;
     
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgba(255, 255, 255, 0.937);
+    background-color: rgba(255, 255, 255, 0.945);
     
 }
-.food-page-title
+.about-page-title
 {
-    height: 200px;
+    height: 160px;
 }
-#food-page-title-food
+#about-page-title-about
 {
     text-align: left;
    
     font-size: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-top: 120px;
+    margin-top: 60px;
     margin-left: 60px;
     margin-right: 150px;
    
     float: left;
 }
-#food-page-title-picture
+#about-page-title-picture
 {
     float: right;
     width: 115px;
     height: 85px;
     margin-right: 50px;
-    margin-top: 105px;
+    margin-top: 45px;
    
 }
 
-#food-top-word
+.about-top-word
 {
     
-    margin-top:20px;
+    margin-top:0px;
     text-align: left;
     margin-left: 50px;
-    font-size: 16.5px;
-   
+    font-size: 17.5px;
+   margin-right: 50px;
+   line-height:32px;
 }
-#food-page-title-picture-2
+#about-page-title-picture-2
 {
     width: 100%;
     height: 400px;
 }
 
-.circle
-{
-    display: inline-block;
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    border: 1px solid rgb(48, 46, 46);
-   
-  
-     
-}
-.food-page-circle-picture-bakery {
-    background-image: url(../src/bakery.jpeg);
-    background-size:cover;
-    background-position:center center;
-    height: 100%;
-    border-radius:50%;
-}
-.food-page-circle-picture-breakfast
-{
-    background-image: url(../src/breakfast.jpeg);
-    background-size:cover;
-    background-position:center center;
-    height: 100%;
-    border-radius:50%;
-}
-.food-page-circle-picture-senwichs
-{
-    background-image: url(../src/sanwich2.jpg);
-    background-size:cover;
-    background-position: right right;
-    height: 100%;
-    border-radius:50%;
-}
-.food-page-circle-picture-charcuterie
-{
-    background-image: url(../src/charcuterie.jpeg);
-    background-size:cover;
-    background-position: right right;
-    height: 100%;
-    border-radius:50%;
-}
 
-.food-information
+
+.about-information
 {
-    width: 910px;
+    width: 920px;
   
     height: 430px;
-    margin-left: auto;
-    margin-right: auto;
-    
 }
 
-.food-information-picture
+.about-information-sation
 {
-    width: 185px;
+    width: 220px;
     padding: 10px;
     margin: 10px;
-   
+    text-align: left;
     display: inline-block;
     vertical-align: top;
     height: 390px;
@@ -143,19 +101,26 @@
 }
 .information-title
 {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 600;
 }
 
 .information-insit
 {
     text-align: left;
-    padding-left: 20px;
-    
     font-size: 15px;
     font-weight: 500;
-
 }
+a
+{
+    text-decoration: none;
+    color: red;
+}
+.hours-contact
+{
+    line-height:30px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
