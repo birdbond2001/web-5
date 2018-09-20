@@ -15,7 +15,7 @@
 {
     
     background-image: url("../src/coffee-2.jpg");
-   width: 100%;
+   width: 1440PX;
    height:1300px;
    background-repeat: no-repeat;
    background-size: cover;
@@ -83,7 +83,7 @@
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    border: 1px solid rgb(48, 46, 46);
+    
    
   
      
@@ -185,6 +185,10 @@ li a {
 
 li a:hover {
     color: rgb(189, 184, 184);
+    
+}
+.title-link-seaction:hover
+{
     text-decoration: underline;
 }
 .title-link-seaction-dineen
@@ -193,4 +197,5 @@ li a:hover {
     padding-top: 23px;
     font-weight:bold;
     color: white;
+    text-decoration: none;
 }

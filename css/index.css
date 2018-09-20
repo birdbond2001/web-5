@@ -9,7 +9,7 @@
 {
     margin-left: auto;
     margin-right:auto;
-      width:100%;
+      width:1450px;
    
    
 }
@@ -46,6 +46,10 @@ li a {
 
 li a:hover {
     color: rgb(189, 184, 184);
+    
+}
+.title-link-seaction:hover
+{
     text-decoration: underline;
 }
 .title-link-seaction-dineen
@@ -54,11 +58,12 @@ li a:hover {
     padding-top: 23px;
     font-weight:bold;
     color: white;
+    text-decoration: none;
 }
 hr{
     width: 0px;
     height:70px;
-    margin-left: 360px;
+    margin-left: 430px;
     position: relative;
     bottom: 10px;
     
